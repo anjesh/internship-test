@@ -2,8 +2,8 @@
 
 ### What you need to do
 
-* Take a [git class in codeschool](https://www.codeschool.com/learn/git) if you haven’t already.
-* Create a private repo called “yipl-data-1” in [bitbucket](https://bitbucket.org)
+* Take a [git class in codeschool](https://www.codeschool.com/courses/try-git) if you haven’t already.
+* Create a private repo called “yipl-scrape-it” in [bitbucket](https://bitbucket.org)
 * Solve the problem below
 * Push your code to the repo (make sure that you have multiple number of commits with proper messages) 
 * Invite internship-bitbucket@yipl.com.np to that particular private repo
@@ -18,12 +18,15 @@ Your code should run from the cli as shown below. If you don’t know how to use
 
 In php, 
 `php run.php`
+
 In python, 
 `python run.py`
+
 In node,
 `node run.js`
+
 In go,
-`./run`
+`go run run.go`
 
 Your run script should create a folder called "out" and write a file "data.csv" inside "data" folder.
 "data.csv" should contain the data as this "file"

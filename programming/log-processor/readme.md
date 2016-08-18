@@ -2,7 +2,7 @@
 
 ### What you need to do
 
-* Take a [git class in codeschool](https://www.codeschool.com/learn/git) if you haven’t already.
+* Take a [git class in codeschool](https://www.codeschool.com/courses/try-git) if you haven’t already.
 * Create a private repo called “yipl-log-processor” in [bitbucket](https://bitbucket.org)
 * Solve the problem below
 * Push your code to the repo (make sure that you have multiple number of commits with proper messages) 
@@ -11,20 +11,23 @@
 
 #### Problem
 
-You have a log file with the content as shown below. You need to write code that reads the log file, processes its content and gives the summary of the logs as shown in output section below. The code should be written in any one of the following programming languages (node, python, php, golang). 
+You have a [log file](example.log). You need to write code that reads the given log file, processes its content and gives the summary of the logs as shown in output section below. The code should be written in any one of the following programming languages (node, python, php, golang). 
 
 The filename should be process.php, process.py, process.js or process.go based on the language of your choice.
 
 Your code should run from the cli as shown below. If you don’t know how to use cli in one of the given languages, time to learn it as well. 
 
 In php, 
-`php run.php`
+`php process.php`
+
 In python, 
-`python run.py`
+`python process.py`
+
 In node,
-`node run.js`
+`node process.js`
+
 In go,
-`./run`
+`go run process.go`
 
 Running the above command should give the following output
 ```
