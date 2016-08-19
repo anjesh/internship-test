@@ -10,7 +10,7 @@
 
 #### Problem
 
-Write code to scrape the data from the following [html page](example.html) using any one of the following programming languages (node, python, php, golang). If you don’t know what scraping is, it’s time to learn now. 
+Write code to scrape the data from the following [html page](https://cdn.rawgit.com/anjesh/internship-test/master/data-analysis/scrape-it/exampledata.html) in any one of the following programming languages (node, python, php, golang). If you don’t know what scraping is, it’s time to learn now. 
 
 The filename should be run.php, run.py, run.js or run.go.
 
@@ -36,6 +36,6 @@ Your run script should create a folder called "out" and write a file "data.csv" 
 * If you write unit tests for your code
 * If you write readme file with necessary instruction to run the code
 
-Note: If you are creating a separate class file, your class filename should be "scraper.php", "scraper.py" and so on for other languages. 
+**Note**: If you are creating a separate class file and accessing that class file from your run script, your class filename should be "scraper.php", "scraper.py" and so on for other languages. 
 
 

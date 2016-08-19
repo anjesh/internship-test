@@ -14,9 +14,9 @@
 1. You'll receive an invite from Zeplin. To learn more about Zeplin, click here: https://zeplin.io/
 2. Using Zeplin, you'll be able to open a project called "Slush Nepal"
 3. You'll then be able to see 3 screens 
-* Landing Page
-* FAQ
-* Final_Slush Nepal
+ - Landing Page
+ - FAQ
+ - Final_Slush Nepal
 4. Your assignment is to turn "Landing Page" screen into an interactive web page using HTML/ CSS (if possible JS). You don't have to implement FAQ and Final_Slush Nepal
 5. Upload the html/css file into your repo
 
