@@ -1,5 +1,7 @@
 ## Docker me
 
+If you are hearing Docker for the first time, you should be elated. You get to learn something. Take your time to explore and learn. 
+
 ### What you need to do
 
 * Take a [git class in codeschool](https://www.codeschool.com/courses/try-git) if you haven’t already.
@@ -8,10 +10,7 @@
 * Push your code to the repo (make sure that you have multiple number of commits with proper messages) 
 * Invite internship-bitbucket@yipl.com.np to that particular private repo
 
-
 #### Problem
-
-If you are hearing Docker for the first time, you should be elated. You get to learn something. Take your time to learn. 
 
 Create a Dockerfile to address the following concerns.
 

@@ -1,4 +1,4 @@
-## Docker me
+## Slush that design
 
 ### What you need to do
 
