@@ -5,9 +5,9 @@ If this is the first time you have heard of 'Docker', you should be excited! You
 ### What you need to do
 
 * If you haven’t already done so, take a [git class in codeschool](https://www.codeschool.com/courses/try-git).
-* Create a private repo called “yipl-docker-me” in [bitbucket](https://bitbucket.org)
+* Once complete, create a private repo called “yipl-docker-me” in [bitbucket](https://bitbucket.org)
 * Solve the problem detailed below
-* Push your code to the repo (make sure that you have multiple numbers of commits with proper messages) 
+* Push your code to the repo (make sure that you have multiple commits with proper messages) 
 * Invite internship-bitbucket@yipl.com.np to that particular private repo
 
 #### Problem
