@@ -14,7 +14,7 @@ If you are hearing Docker for the first time, you should be elated. You get to l
 
 Create a Dockerfile to automate the following tasks
 
-* Use the alpine linux
+* Use the alpine linux image
 * Setup nginx server
 * Clone the given repo https://github.com/anjesh/internship-test
 * Copy this [folder](https://github.com/anjesh/internship-test/tree/master/devops/docker-me/site) from the cloned repo to the nginx document root folder
