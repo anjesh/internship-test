@@ -1,18 +1,18 @@
 ## Docker me
 
-If you are hearing Docker for the first time, you should be elated. You get to learn something. Take your time to explore and learn. 
+If this is the first time you have heard of 'Docker', you should be excited! You get to learn something new! Take your time to explore and learn, and show us what you can do. 
 
 ### What you need to do
 
-* Take a [git class in codeschool](https://www.codeschool.com/courses/try-git) if you haven’t already.
+* If you haven’t already done so, take a [git class in codeschool](https://www.codeschool.com/courses/try-git).
 * Create a private repo called “yipl-docker-me” in [bitbucket](https://bitbucket.org)
-* Solve the problem below
-* Push your code to the repo (make sure that you have multiple number of commits with proper messages) 
+* Solve the problem detailed below
+* Push your code to the repo (make sure that you have multiple numbers of commits with proper messages) 
 * Invite internship-bitbucket@yipl.com.np to that particular private repo
 
 #### Problem
 
-Create a Dockerfile to automate the following tasks
+Create a Dockerfile which can automate the following tasks:
 
 * Use the alpine linux image
 * Setup nginx server
