@@ -7,6 +7,6 @@ if(isset($_POST["submit"])) {
 }
 ?>
 <form method="POST" enctype="multipart/form-data">
-Select document to upload: <input type="file" name="document">
+Select document to upload (only pdf are allowed): <input type="file" name="document">
 <input type="submit" value="Upload Document" name="submit">
 </form>

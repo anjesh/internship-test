@@ -31,6 +31,8 @@ In go,
 Your run script should create a folder called "out" and write a file "data.csv" inside "data" folder.
 "data.csv" should contain the data as this "file"
 
+Push your codes and data.csv file to the repo, maintaining the folder structure.
+
 ### Bonus points
 
 * If you write unit tests for your code

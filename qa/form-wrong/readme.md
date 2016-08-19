@@ -11,17 +11,15 @@
 
 #### Problem
 
-Copy the following [folder](code) in your php enabled web server. 
-Access the [form](code/form.php) from the browser.
+* Copy the following [folder](code) in your php enabled web server. 
+* Access the [form](code/form.php) from the browser
 
-Write what is wrong with the given form. Give as many issues as possible. Create a text file "issues.txt" and list all the issues there. Push this file into the given repo. 
-
-Fix the [form code](code/form.php) to address the issues you have identified and push the code in the same repo.
+* Write what is wrong with the given form. List as many issues as possible in a separate file "issues.txt". 
+* Fix the [form code](code/form.php) to address the issues you have identified.
+* Push both the code and "issues.txt" to the repo.
 
 ### Bonus points
 
-* If you write the UI test code to test against your scenarios. 
-
-Note: If you are creating a separate class file, your class filename should be "logprocessor.php", "logprocessor.py" and so on for other languages. 
+* If you write the UI testing code to automate the form testing (using selenium)
 
 
