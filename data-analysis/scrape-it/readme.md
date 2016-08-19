@@ -5,7 +5,7 @@
 * If you haven’t already, take a [git class in codeschool](https://www.codeschool.com/courses/try-git).
 * Once complete, create a private repo called “yipl-scrape-it” in [bitbucket](https://bitbucket.org)
 * Solve the problem detailed below
-* Push your code to the repo (make sure that you have multiple numbers of commits with proper messages) 
+* Push your code to the repo (make sure that you have multiple commits with proper messages) 
 * Invite internship-bitbucket@yipl.com.np to that particular private repo
 
 #### Problem
