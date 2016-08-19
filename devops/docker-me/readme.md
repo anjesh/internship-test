@@ -12,13 +12,18 @@ If you are hearing Docker for the first time, you should be elated. You get to l
 
 #### Problem
 
-Create a Dockerfile to address the following concerns.
+Create a Dockerfile to automate the following tasks
 
-* Your docker should use the alpine linux
+* Use the alpine linux
 * Setup nginx server
-* Clone the given repo
-* The docker when run should give the following output when the server is accessed.
+* Clone the given repo https://github.com/anjesh/internship-test
+* Copy this [folder](https://github.com/anjesh/internship-test/tree/master/devops/docker-me/site) from the cloned repo to the nginx document root folder
+* Expose the port 9000 in the host and link with the default nginx port
+* Push your Dockerfile to the repo.
 
-Push your Dockerfile to the repo. 
+When the docker is run, the [html file](https://github.com/anjesh/internship-test/blob/master/devops/docker-me/site/index.html) should be accessible from the browser at http://localhost:9000/site/index.html
+
+* Write the docker run command with the port mentioned in readme.md
+
 
 
